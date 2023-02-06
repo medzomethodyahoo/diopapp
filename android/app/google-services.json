@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41452835629",
+    "project_id": "dioptest-bb9e1",
+    "storage_bucket": "dioptest-bb9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41452835629:android:aecfdb095f5d965febb9a4",
+        "android_client_info": {
+          "package_name": "com.example.diopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41452835629-o82u20hhe11l4r24ip3f2rhqs26e42o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86zTFkua7o34ctBcY9g_tLMxaiP2Q1JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41452835629-o82u20hhe11l4r24ip3f2rhqs26e42o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
